@@ -1,0 +1,15 @@
+{
+  "name": "minecraft-buddy",
+  "version": "1.0.0",
+  "description": "A local Minecraft Java companion bot powered by Mineflayer",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.31.0",
+    "mineflayer-pathfinder": "^2.4.5",
+    "mineflayer-collectblock": "^1.5.0",
+    "mineflayer-pvp": "^1.3.2"
+  }
+}
